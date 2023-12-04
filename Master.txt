@@ -6,5 +6,5 @@
 /data/Map002.json https://www.mediafire.com/file/r96wss1xi3f25s4/Map002.json?dl=1
 <End of Version>
 <Version: 1.5>
-
+/data/update.owo
 <End of Version>
