@@ -1,4 +1,4 @@
 
-<Version: 1.01-ALPHA>
+<Version: 1.02 ALPHA>
 /data/Map002.json https://download1501.mediafire.com/9l5qjhjn3imgTVqlFP8lFGU4aeZmZHvU4IWH6aSe9Z9iVTzBPe_5wffeNQ4Oyb_tYmBQEzgTfpymqSk_gBGp_e4JatGJoBpwjeomGERMVcQ3qBstYWlY7yUhJnmaHew6g_DcXg7zVtzJOKNCBUuvlhicQ0duREsC2hJnUNwjKKJ2WQ/r96wss1xi3f25s4/Map002.json
 <End of Version>
